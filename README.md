@@ -10,8 +10,6 @@ This project is a food delivery website built using the MERN (MongoDB, Express, 
 
 
 
-
-
 ## Features
 
 - Restaurant Listing: Browse a variety of restaurants with available menus.
@@ -24,3 +22,5 @@ This project is a food delivery website built using the MERN (MongoDB, Express, 
 ![Screenshot (40)](https://github.com/user-attachments/assets/036e0bfe-c293-411f-8bdd-1e897e5b7905)
 ![Screenshot (41)](https://github.com/user-attachments/assets/bf0eacd3-1f04-4db4-95ff-45ea020cb681)
 ![Screenshot (42)](https://github.com/user-attachments/assets/7b138755-43b3-4469-aff1-ec408723db9a)
+![Screenshot (43)](https://github.com/user-attachments/assets/08f4dd1a-f54b-4cd7-9a31-d2dd7eb70ebc)
+![Screenshot (44)](https://github.com/user-attachments/assets/714b3027-9162-4fbb-8f5a-dbe799481e16)
